@@ -4,7 +4,7 @@
 
 In this project we will reproduce the examples provided in the book [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) by François Chollet. The book is a very good introduction to Deep Learning and Keras. It is also a good reference for more advanced users.
 
-# Tools
+## Tools
 
 We will use the following tools:
 
